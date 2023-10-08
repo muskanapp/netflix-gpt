@@ -3,6 +3,17 @@
 - configure tailwind css
 - Header
 - Login form
+- Sign up form
+- Validation
+- useRef
+- firebase setup
+- deploy app using firebase(firebase login, firebase init and firebase deploy)
+- Authentication, sign up user account
+- Implement Sign In
+- Created Redux store with userSlice
+- Implemented Sign out
+- Updated our profile to add display name and photoURL
+- Fetch movies from TMDB movies api
 
 # Features
 - Login/ sign up
