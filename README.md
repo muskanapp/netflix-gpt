@@ -31,6 +31,8 @@
 - TMDB image CDN URL
 - Custom hooks - usePopularMovies
 - Tailwind css to make the browse page beautiful
+- Made scroll bars invisible using extra CSS extension
+- GPT seach bar with multilingual support
 
 # Features
 - Login/ sign up
