@@ -33,6 +33,11 @@
 - Tailwind css to make the browse page beautiful
 - Made scroll bars invisible using extra CSS extension
 - GPT seach bar with multilingual support
+- Use API key to get results from GPT
+- Secure key
+- Form a query for gpt to fetch results according to the search text 
+- Return the movie names and all the corresponding search results fetched using tmdb api
+- Re-used MovieCard to show these results
 
 # Features
 - Login/ sign up
