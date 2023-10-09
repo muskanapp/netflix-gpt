@@ -14,6 +14,19 @@
 - Implemented Sign out
 - Updated our profile to add display name and photoURL
 - Fetch movies from TMDB movies api
+- BugFix: Sign up user displayName and profile picture update
+- BugFix: if the user is not logged in Redirect /browse to Login Page and vice-versa
+- Unsubscribed to onauthstatuschanged
+- Register on TMDB website and get the API key
+- Fetch data from the api, now playing movies
+- Put the results into the redux store
+- Main container -> one movie with a trailer, name and overview
+- Secondary container -> list of movies with many movie cards
+- Custom hooks for nowPlayingMovie and movieTrailer
+- Update appStore with movies data
+- Fetch data for trailer video
+- Update store with trailer video data
+- Embedded the youtube video and make it autoplay and mute
 
 # Features
 - Login/ sign up
