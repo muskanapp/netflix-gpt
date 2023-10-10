@@ -34,10 +34,13 @@
 - Made scroll bars invisible using extra CSS extension
 - GPT seach bar with multilingual support
 - Use API key to get results from GPT
-- Secure key
+- Secure key using .env file and add .env file to gitignore
 - Form a query for gpt to fetch results according to the search text 
-- Return the movie names and all the corresponding search results fetched using tmdb api
-- Re-used MovieCard to show these results
+- Get the movie names and fetch all the corresponding search results fetched using tmdb api
+- Re-used MovieList to show these results
+- Memoization using redux store
+- Made site responsive
+
 
 # Features
 - Login/ sign up
